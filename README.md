@@ -5,7 +5,7 @@ Course and Lab Tasks  from: [FPGA Academy](https://fpgacademy.org/courses.html).
 
 ## Board Used
 - DE1-SOC Development Board
-- 
+
 ## Software Tools
 - Intel Quartus Prime Lite Edition
 - ModelSim (for simulation)
